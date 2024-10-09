@@ -69,7 +69,7 @@ class _QuizState extends State<Quiz> {
           decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [
-                Colors.deepGreen,
+                Colors.green,
                 Colors.purple,
               ],
               begin: Alignment.topLeft,
@@ -82,3 +82,4 @@ class _QuizState extends State<Quiz> {
     );
   }
 }
+
